@@ -108,7 +108,7 @@ Habilidade FÚRIA ficará ativa até o fim do combate!
 1. Clone o repositório:
 
 ```
-https://github.com/crenildo/RPG_Habilidades_ORC/edit/main/README.md
+https://github.com/crenildo/RPG_Habilidades_ORC/blob/main/README.md
 ```
 
 2. Abra no IntelliJ ou VS Code
