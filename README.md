@@ -73,7 +73,7 @@ Esse padrão permite:
 * ✔ Facilidade para trocar comportamentos
 * ✔ Evita duplicação
 * ✔ Representa múltiplos “tipos” sem herança múltipla
-* 
+  
 Empresas usam esse estilo para **modularizar habilidades**, regras, comportamentos e lógicas reaproveitáveis.
 
 ---
