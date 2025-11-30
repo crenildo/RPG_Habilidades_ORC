@@ -129,13 +129,13 @@ https://github.com/crenildo/RPG_Habilidades_ORC/edit/main/README.md
 
 Este projeto mostra domínio de:
 
-✔ Herança
-✔ Polimorfismo
-✔ Contratos via Interface
-✔ Classes Abstratas
-✔ Delegação
-✔ Separação de responsabilidades
-✔ Arquitetura limpa para objetos de jogo (RPG)
+* ✔ Herança
+* ✔ Polimorfismo
+* ✔ Contratos via Interface
+* ✔ Classes Abstratas
+* ✔ Delegação
+* ✔ Separação de responsabilidades
+* ✔ Arquitetura limpa para objetos de jogo (RPG)
 
 É um excelente exemplo de modelagem OO para portfolio.
 
